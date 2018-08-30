@@ -1,3 +1,3 @@
 git basics
 
-I'm learnding.
+I'm learning.
